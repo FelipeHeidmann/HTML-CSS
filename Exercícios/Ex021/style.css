@@ -1,19 +1,13 @@
 @charset "UTF-8";
 
 .borderdraw{
-    
     background-color: rgb(255, 255, 255);
-    
     height: 0px;
     width: 0px;
-
-
     border: solid;
     border-width: 200px  200px  200px  200px ;
     border-color: yellow green blue red;
-
     padding: 0px 0px 0x 0px;
-
     margin:300px auto;
 
     
